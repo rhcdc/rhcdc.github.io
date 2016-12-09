@@ -16,6 +16,6 @@ Let's first see what does the weekee say:
 > souls who are going to lost in the metropolis of internet. Technically
 > speaking, it's just another common Horcrux for the neon internet generation.
 
-So you shall not be surprised next time when you check manual of some siege
+So you shall not be surprised next time when you check a manual of some siege
 engine and it reads:
 Behold! Strangers, let's first rest our weary bones!
